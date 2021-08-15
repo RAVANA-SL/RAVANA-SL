@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+  <p align="center">
+<img src="https://telegra.ph/file/bb79592cc07b546e36caf.jpg" width="200" height="200"/>
+</p>
+ <p align="center">
+<a href="#"><img title="FARHANDQZ" src="https://img.shields.io/badge/-RAVANA-red"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/OWNER-RAVANA-blue"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/RAVANA-SL</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
-<!--
-**RAVANA-SL/RAVANA-SL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAVANA-SL&show_icons=true&theme=light&locale=en&layout=compact" alt="farhan-dqz" /></p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RAVANA-SL&show_icons=true&theme=light&locale=en" alt="RAVANA-SL" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAVANA-SL&theme=light" alt="RAVANA-SL" /></p>
+</p>
+
