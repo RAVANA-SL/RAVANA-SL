@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/RAVANA-SL</a> to make it public
 
 ----
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAVANA-SL&show_icons=true&theme=light&locale=en&layout=compact" alt="farhan-dqz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAVANA-SL&show_icons=true&theme=light&locale=en&layout=compact" alt="RAVANA" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RAVANA-SL&show_icons=true&theme=light&locale=en" alt="RAVANA-SL" /></p>
 
